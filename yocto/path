@@ -1,0 +1,3 @@
+meta-fsl-arm/recipes-multimedia/gstreamer/gstreamer1.0-plugins-bad_%.bbappend
+meta-fsl-arm/conf/machine/imx6qsabresd.conf
+
